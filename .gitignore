@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.egg-info/
+.venv/
+venv/
+data/processed.csv
+models/best_model.joblib
+models/tuned_model.joblib
